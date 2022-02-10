@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatih Mehmet Sağır</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Kota Records](https://www.kotarecords.com)
+- 🔭 I’m currently working on [Saha Robotik](https://github.com/SahaRobotik)
 
 - 🌱 I’m currently learning **React js, Redux**
 
