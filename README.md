@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Saha Robotik](https://github.com/SahaRobotik)
 
-- 🌱 I’m currently learning **React js, Redux,Next js, Node js **
+- 🌱 I’m currently learning **React js, Redux, Next js, Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihmehmett?tab=repositories](https://github.com/fatihmehmett?tab=repositories)
 
